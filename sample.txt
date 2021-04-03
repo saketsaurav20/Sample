@@ -1,1 +1,1 @@
-This is a final testing git integration with vscode
+This is a sample testing git integration with vscode
