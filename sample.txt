@@ -1,1 +1,1 @@
-This is sample proj for testing git to change.kkj
+This is a final testing git integration with vscode
